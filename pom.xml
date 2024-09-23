@@ -40,4 +40,8 @@
             </plugin>
         </plugins>
     </build>
+	  <developers>
+                    <firstname>Barbara</firstname>
+					<lastname>Sura</lastname>
+                </developers>
 </project>
